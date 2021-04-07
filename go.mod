@@ -1,4 +1,4 @@
-module github.com/chromedp/chromedp
+module github.com/loxiouve/chromedp
 
 go 1.13
 
